@@ -2,36 +2,35 @@ name: Update Scholar JSON
 
 on:
   schedule:
-    # Run every day at midnight UTC
-    - cron: "0 * * * *"
-  workflow_dispatch: # allow manual trigger from GitHub Actions tab
+    - cron: "0 * * * *" # runs hourly at minute 0
+  workflow_dispatch: # allow manual trigger
 
 jobs:
   update-scholar:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2. Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      # 3. Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      # 4. Run the script
+      - name: Debug repo structure
+        run: |
+          pwd
+          ls -R
+
       - name: Run Scholar scraper
         run: python SCRIPTS/fetch_scholar.py
 
-      # 5. Commit changes if any
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
