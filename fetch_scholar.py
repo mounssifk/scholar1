@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 USER_ID = "me17ScoAAAAJ"
 URL = f"https://scholar.google.com/citations?hl=en&user={USER_ID}"
@@ -75,11 +75,11 @@ def get_author_profile_data():
     except AttributeError:
         cited_by = {}  # leave empty if blocked
 
-    now = datetime.now(timezone.utc)
+    now = now = datetime.now(timezone.utc) + timedelta(hours=3)
     epoch_seconds = int(now.timestamp())
 
     return {
-        "_lastFetched": now.strftime("%Y-%m-%d"),
+        "_lastFetched": now.strftime("%Y-%m-%d, %H-%M"),
         "_lastFetchedEpoch": epoch_seconds,
         "author": author_info,
         "publications": articles,
