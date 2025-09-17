@@ -28,7 +28,7 @@ jobs:
 
       # 4. Run the script
       - name: Run Scholar scraper
-        run: python scripts/fetch_scholar.py
+        run: python fetch_scholar.py
 
       # 5. Commit & push changes
       - name: Commit changes
