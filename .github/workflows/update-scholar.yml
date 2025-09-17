@@ -3,7 +3,7 @@ name: Update Scholar JSON
 on:
   schedule:
     # Run every day at midnight UTC
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch: # allow manual trigger from GitHub Actions tab
 
 jobs:
