@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import json
 import os
 from datetime import datetime, timezone
-import time
 
 USER_ID = "me17ScoAAAAJ"
 URL = f"https://scholar.google.com/citations?hl=en&user={USER_ID}"
@@ -16,7 +15,7 @@ HEADERS = {
 def get_author_profile_data():
     response = requests.get(URL, headers=HEADERS)
     
-    # Save fetched page for debugging
+    # Save fetched page for debugging (ignored in git)
     os.makedirs("debug", exist_ok=True)
     with open("debug/debug_page.html", "w", encoding="utf-8") as f:
         f.write(response.text)
@@ -74,7 +73,7 @@ def get_author_profile_data():
             },
         }
     except AttributeError:
-        cited_by = {}  # If blocked, leave metrics empty
+        cited_by = {}  # leave empty if blocked
 
     now = datetime.now(timezone.utc)
     epoch_seconds = int(now.timestamp())
@@ -93,7 +92,7 @@ def main():
         data = get_author_profile_data()
     except Exception as e:
         print(f"⚠️ Could not fetch Google Scholar profile: {e}")
-        return  # Exit gracefully without crashing
+        return  # Exit gracefully
 
     os.makedirs("public", exist_ok=True)
     output_path = os.path.join("public", "scholar.json")

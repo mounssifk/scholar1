@@ -26,17 +26,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      # 4. Debug repo structure (optional, helps confirm script path)
-      - name: Debug repo structure
-        run: |
-          pwd
-          ls -R
-
-      # 5. Run the script (ensure folder name matches: scripts/ vs SCRIPTS/)
+      # 4. Run the script
       - name: Run Scholar scraper
-        run: python fetch_scholar.py
+        run: python scripts/fetch_scholar.py
 
-      # 6. Commit & push changes
+      # 5. Commit & push changes
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
