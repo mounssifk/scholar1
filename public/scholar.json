@@ -1,6 +1,6 @@
 {
-  "_lastFetched": "2025-09-28, 03-59",
-  "_lastFetchedEpoch": 1759031941,
+  "_lastFetched": "2025-10-08, 03-52",
+  "_lastFetchedEpoch": 1759895579,
   "author": {
     "name": "Mounssif KROUKA",
     "position": "Doctoral Researcher, Centre for Wireless Communications (CWC), University of Oulu",
@@ -16,9 +16,23 @@
       "year": "2025"
     },
     {
-      "title": "Collaborative training of a machine learning model considering estimated energy consumption",
+      "title": "Communication-Efficient and Interoperable Distributed Learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:kNdYIx-mwKoC",
+      "authors": "M Krouka, M Bennis",
+      "publication": "arXiv preprint arXiv:2509.22823, 2025",
+      "year": "2025"
+    },
+    {
+      "title": "METHODS, APPARATUS AND COMPUTER PROGRAMS",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:3fE2CSJIrl8C",
+      "authors": "M Krouka, T Kulkarni, AH Koskela, MJ Honkala",
+      "publication": "EP Patent EP4614395A1, 2025",
+      "year": "2025"
+    },
+    {
+      "title": "COLLABORATIVE TRAINING OF A MACHINE LEARNING MODEL CONSIDERING ESTIMATED ENERGY CONSUMPTION",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:8k81kl-MbHgC",
-      "authors": "M KROUKA, MS ELBAMBY, M Bennis",
+      "authors": "M Krouka, MS Elbamby, M Bennis",
       "publication": "US Patent App. 19/050,541, 2025",
       "year": "2025"
     },
@@ -88,8 +102,8 @@
   ],
   "metrics": {
     "citations": {
-      "all": "180",
-      "since_2017": "173"
+      "all": "181",
+      "since_2017": "174"
     },
     "h_index": {
       "all": "5",
