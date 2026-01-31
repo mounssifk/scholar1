@@ -1,109 +1,115 @@
 {
-  "_lastFetched": "2026-01-22, 04-45",
-  "_lastFetchedEpoch": 1769057102,
+  "_lastFetched": "2026-01-31, 04-53",
+  "_lastFetchedEpoch": 1769835195,
   "author": {
-    "name": "Mounssif KROUKA",
+    "name": "Mounssif Krouka",
     "position": "Doctoral Researcher, Centre for Wireless Communications (CWC), University of Oulu",
     "email": "Verified email at oulu.fi",
     "departments": "Communication SystemsWireless CommunicationsEdge AIB5G/6G"
   },
   "publications": [
     {
+      "title": "Distributionally Robust Federated Learning with Client Drift Minimization",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:M3NEmzRMIkIC",
+      "authors": "M Krouka, CB Issaid, M Bennis",
+      "publication": "IEEE Transactions on Machine Learning in Communications and Networking, 2026",
+      "year": "2026"
+    },
+    {
       "title": "Communication Efficient Differentially Private Federated Learning Using Second Order Information",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:UebtZRa9Y70C",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:e5wmG9Sq2KIC",
       "authors": "M Krouka, A Koskela, T Kulkarni",
       "publication": "Proceedings on Privacy Enhancing Technologies, 2025",
       "year": "2025"
     },
     {
       "title": "Communication-Efficient and Interoperable Distributed Learning",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:kNdYIx-mwKoC",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:iH-uZ7U-co4C",
       "authors": "M Krouka, M Bennis",
       "publication": "arXiv preprint arXiv:2509.22823, 2025",
       "year": "2025"
     },
     {
-      "title": "METHODS, APPARATUS AND COMPUTER PROGRAMS",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:3fE2CSJIrl8C",
+      "title": "Methods, apparatus and computer programs",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:isC4tDSrTZIC",
       "authors": "M Krouka, T Kulkarni, AH Koskela, MJ Honkala",
       "publication": "EP Patent EP4614395A1, 2025",
       "year": "2025"
     },
     {
-      "title": "COLLABORATIVE TRAINING OF A MACHINE LEARNING MODEL CONSIDERING ESTIMATED ENERGY CONSUMPTION",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:8k81kl-MbHgC",
-      "authors": "M Krouka, MS Elbamby, M Bennis",
-      "publication": "US Patent App. 19/050,541, 2025",
+      "title": "Collaborative training of a machine learning model considering estimated energy consumption",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:TFP_iSt0sucC",
+      "authors": "M Krouka, MS ELBAMBY, M Bennis",
+      "publication": "US Patent US20250265500A1, 2025",
       "year": "2025"
     },
     {
-      "title": "Distributionally Robust Federated Learning with Client Drift Minimization",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:0EnyYjriUFMC",
-      "authors": "M Krouka, CB Issaid, M Bennis",
-      "publication": "arXiv preprint arXiv:2505.15371, 2025",
-      "year": "2025"
-    },
-    {
-      "title": "Cross Layer Optimization and Distributed Reinforcement Learning for Wireless 360° Video Streaming",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:eQOLeE2rZwMC",
+      "title": "Cross layer optimization and distributed reinforcement learning for wireless 360 video streaming",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:k_IJM867U9cC",
       "authors": "A Elgabli, MS Elbamby, C Perfecto, M Krouka, M Bennis, V Aggarwal",
-      "publication": "2024 IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems …, 2024",
+      "publication": "2024 IEEE 21st International Conference on Mobile Ad-Hoc and Smart Systems …, 2024",
       "year": "2024"
     },
     {
       "title": "Communication-Efficient Second-Order Newton-Type Approach for Decentralized Learning",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:zYLM7Y9cAGgC",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:r0BpntZqJG4C",
       "authors": "M Krouka, A Elgabli, CB Issaid, M Bennis",
       "publication": "2023 IEEE Wireless Communications and Networking Conference (WCNC), 1-7, 2023",
       "year": "2023"
     },
     {
       "title": "Communication-efficient federated learning: A second order newton-type method with analog over-the-air aggregation",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:IjCSPb-OGe4C",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:TQgYirikUcIC",
       "authors": "M Krouka, A Elgabli, CB Issaid, M Bennis",
       "publication": "IEEE Transactions on Green Communications and Networking 6 (3), 1862-1874, 2022",
       "year": "2022"
     },
     {
       "title": "Communication-efficient and federated multi-agent reinforcement learning",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:UeHWp8X0CEIC",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:R3hNpaxXUhUC",
       "authors": "M Krouka, A Elgabli, CB Issaid, M Bennis",
       "publication": "IEEE Transactions on Cognitive Communications and Networking 8 (1), 311-320, 2021",
       "year": "2021"
     },
     {
       "title": "Energy-efficient model compression and splitting for collaborative inference over time-varying channels",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:9yKSN-GCB0IC",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:HDshCWvjkbEC",
       "authors": "M Krouka, A Elgabli, CB Issaid, M Bennis",
       "publication": "2021 IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile …, 2021",
       "year": "2021"
     },
     {
       "title": "Communication-efficient split learning based on analog communication and over the air aggregation",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:2osOgNQ5qMEC",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:4JMBOYKVnBMC",
       "authors": "M Krouka, A Elgabli, C ben Issaid, M Bennis",
       "publication": "2021 IEEE Global Communications Conference (GLOBECOM), 1-6, 2021",
       "year": "2021"
     },
     {
       "title": "Maximum allowable transfer interval aware scheduling for wireless remote monitoring",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:u-x6o8ySG0sC",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:_Qo2XoVZTnwC",
       "authors": "M Krouka, A Elgabli, M Bennis",
       "publication": "2020 IEEE Wireless Communications and Networking Conference (WCNC), 2020",
       "year": "2020"
     },
     {
       "title": "Reinforcement learning based scheduling algorithm for optimizing age of information in ultra reliable low latency networks",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:u5HHmVD_uO8C",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:j3f4tGmQtD8C",
       "authors": "A Elgabli, H Khan, M Krouka, M Bennis",
       "publication": "2019 IEEE Symposium on Computers and Communications (ISCC), 1-6, 2019",
       "year": "2019"
+    },
+    {
+      "title": "Distributionally Robust Federated Learning with Client Drift Minimization",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:maZDTaKrznsC",
+      "authors": "M Krouka, CB Issaid, M Bennis",
+      "publication": "arXiv preprint arXiv:2505.15371, 0"
     }
   ],
   "metrics": {
     "citations": {
-      "all": "187",
-      "since_2017": "167"
+      "all": "191",
+      "since_2017": "171"
     },
     "h_index": {
       "all": "5",
