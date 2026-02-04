@@ -1,6 +1,6 @@
 {
-  "_lastFetched": "2026-02-01, 05-13",
-  "_lastFetchedEpoch": 1769922796,
+  "_lastFetched": "2026-02-04, 04-58",
+  "_lastFetchedEpoch": 1770181115,
   "author": {
     "name": "Mounssif Krouka",
     "position": "Doctoral Researcher, Centre for Wireless Communications (CWC), University of Oulu",
@@ -10,7 +10,7 @@
   "publications": [
     {
       "title": "Distributionally Robust Federated Learning with Client Drift Minimization",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:M3NEmzRMIkIC",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:JV2RwH3_ST0C",
       "authors": "M Krouka, CB Issaid, M Bennis",
       "publication": "IEEE Transactions on Machine Learning in Communications and Networking, 2026",
       "year": "2026"
