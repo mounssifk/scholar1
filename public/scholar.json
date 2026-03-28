@@ -1,6 +1,6 @@
 {
-  "_lastFetched": "2026-02-04, 04-58",
-  "_lastFetchedEpoch": 1770181115,
+  "_lastFetched": "2026-03-28, 05-04",
+  "_lastFetchedEpoch": 1774674260,
   "author": {
     "name": "Mounssif Krouka",
     "position": "Doctoral Researcher, Centre for Wireless Communications (CWC), University of Oulu",
@@ -10,16 +10,23 @@
   "publications": [
     {
       "title": "Distributionally Robust Federated Learning with Client Drift Minimization",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:JV2RwH3_ST0C",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:hMod-77fHWUC",
       "authors": "M Krouka, CB Issaid, M Bennis",
       "publication": "IEEE Transactions on Machine Learning in Communications and Networking, 2026",
       "year": "2026"
     },
     {
-      "title": "Communication Efficient Differentially Private Federated Learning Using Second Order Information",
+      "title": "Communication Efficient Differentially Private Federated Learning Using Second Order Information.",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:e5wmG9Sq2KIC",
-      "authors": "M Krouka, A Koskela, T Kulkarni",
-      "publication": "Proceedings on Privacy Enhancing Technologies, 2025",
+      "authors": "M Krouka, A Koskela, TD Kulkarni",
+      "publication": "Proc. Priv. Enhancing Technol. 2025 (1), 584-612, 2025",
+      "year": "2025"
+    },
+    {
+      "title": "Leveraging ADROIT6G for Enhanced Reliability and Efficiency of Rail Automation Infrastructure",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:blknAaTinKkC",
+      "authors": "C Guimarães, E Boriskova, Y Breiting, EE Seder, G Bernini, I Ioannou, ...",
+      "publication": "2025 IEEE Conference on Network Function Virtualization and Software-Defined …, 2025",
       "year": "2025"
     },
     {
@@ -89,7 +96,7 @@
       "title": "Maximum allowable transfer interval aware scheduling for wireless remote monitoring",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:_Qo2XoVZTnwC",
       "authors": "M Krouka, A Elgabli, M Bennis",
-      "publication": "2020 IEEE Wireless Communications and Networking Conference (WCNC), 2020",
+      "publication": "2020 IEEE Wireless Communications and Networking Conference (WCNC), 1-6, 2020",
       "year": "2020"
     },
     {
@@ -98,18 +105,12 @@
       "authors": "A Elgabli, H Khan, M Krouka, M Bennis",
       "publication": "2019 IEEE Symposium on Computers and Communications (ISCC), 1-6, 2019",
       "year": "2019"
-    },
-    {
-      "title": "Distributionally Robust Federated Learning with Client Drift Minimization",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:maZDTaKrznsC",
-      "authors": "M Krouka, CB Issaid, M Bennis",
-      "publication": "arXiv preprint arXiv:2505.15371, 0"
     }
   ],
   "metrics": {
     "citations": {
-      "all": "192",
-      "since_2017": "172"
+      "all": "197",
+      "since_2017": "177"
     },
     "h_index": {
       "all": "5",
