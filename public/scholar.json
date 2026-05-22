@@ -1,6 +1,6 @@
 {
-  "_lastFetched": "2026-04-22, 05-29",
-  "_lastFetchedEpoch": 1776835764,
+  "_lastFetched": "2026-05-22, 06-33",
+  "_lastFetchedEpoch": 1779431613,
   "author": {
     "name": "Mounssif Krouka",
     "position": "Doctoral Researcher, Centre for Wireless Communications (CWC), University of Oulu",
@@ -109,8 +109,8 @@
   ],
   "metrics": {
     "citations": {
-      "all": "203",
-      "since_2017": "183"
+      "all": "210",
+      "since_2017": "190"
     },
     "h_index": {
       "all": "5",
