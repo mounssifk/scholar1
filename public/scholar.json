@@ -1,6 +1,6 @@
 {
-  "_lastFetched": "2026-07-16, 05-28",
-  "_lastFetchedEpoch": 1784179697,
+  "_lastFetched": "2026-07-28, 05-25",
+  "_lastFetchedEpoch": 1785216327,
   "author": {
     "name": "Mounssif Krouka",
     "position": "Doctoral Researcher, Centre for Wireless Communications (CWC), University of Oulu",
@@ -81,15 +81,15 @@
     {
       "title": "Energy-efficient model compression and splitting for collaborative inference over time-varying channels",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:HDshCWvjkbEC",
-      "authors": "M Krouka, A Elgabli, CB Issaid, M Bennis",
-      "publication": "2021 IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile …, 2021",
+      "authors": "M Krouka, A Elgabli, C Ben Issaid, M Bennis",
+      "publication": "32nd IEEE Annual International Symposium on Personal, Indoor and Mobile …, 2021",
       "year": "2021"
     },
     {
       "title": "Communication-efficient split learning based on analog communication and over the air aggregation",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:4JMBOYKVnBMC",
-      "authors": "M Krouka, A Elgabli, C ben Issaid, M Bennis",
-      "publication": "2021 IEEE Global Communications Conference (GLOBECOM), 1-6, 2021",
+      "authors": "M Krouka, A Elgabli, CB Issaid, M Bennis",
+      "publication": "arXiv preprint arXiv:2106.00999, 2021",
       "year": "2021"
     },
     {
@@ -113,8 +113,8 @@
       "since_2017": "198"
     },
     "h_index": {
-      "all": "5",
-      "since_2017": "5"
+      "all": "6",
+      "since_2017": "6"
     },
     "i_index": {
       "all": "5",
