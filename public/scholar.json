@@ -1,6 +1,6 @@
 {
-  "_lastFetched": "2026-07-28, 05-25",
-  "_lastFetchedEpoch": 1785216327,
+  "_lastFetched": "2026-09-07, 05-59",
+  "_lastFetchedEpoch": 1788760740,
   "author": {
     "name": "Mounssif Krouka",
     "position": "Doctoral Researcher, Centre for Wireless Communications (CWC), University of Oulu",
@@ -9,7 +9,7 @@
   },
   "publications": [
     {
-      "title": "Distributionally Robust Federated Learning with Client Drift Minimization",
+      "title": "Distributionally robust federated learning with client drift minimization",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:hMod-77fHWUC",
       "authors": "M Krouka, CB Issaid, M Bennis",
       "publication": "IEEE Transactions on Machine Learning in Communications and Networking, 2026",
@@ -58,14 +58,14 @@
       "year": "2024"
     },
     {
-      "title": "Communication-Efficient Second-Order Newton-Type Approach for Decentralized Learning",
+      "title": "Communication-efficient second-order Newton-type approach for decentralized learning",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:r0BpntZqJG4C",
       "authors": "M Krouka, A Elgabli, CB Issaid, M Bennis",
       "publication": "2023 IEEE Wireless Communications and Networking Conference (WCNC), 1-7, 2023",
       "year": "2023"
     },
     {
-      "title": "Communication-efficient federated learning: A second order newton-type method with analog over-the-air aggregation",
+      "title": "Communication-efficient federated learning: A second order Newton-type method with analog over-the-air aggregation",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:TQgYirikUcIC",
       "authors": "M Krouka, A Elgabli, CB Issaid, M Bennis",
       "publication": "IEEE Transactions on Green Communications and Networking 6 (3), 1862-1874, 2022",
@@ -81,15 +81,15 @@
     {
       "title": "Energy-efficient model compression and splitting for collaborative inference over time-varying channels",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:HDshCWvjkbEC",
-      "authors": "M Krouka, A Elgabli, C Ben Issaid, M Bennis",
-      "publication": "32nd IEEE Annual International Symposium on Personal, Indoor and Mobile …, 2021",
+      "authors": "M Krouka, A Elgabli, CB Issaid, M Bennis",
+      "publication": "2021 IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile …, 2021",
       "year": "2021"
     },
     {
       "title": "Communication-efficient split learning based on analog communication and over the air aggregation",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=me17ScoAAAAJ&citation_for_view=me17ScoAAAAJ:4JMBOYKVnBMC",
-      "authors": "M Krouka, A Elgabli, CB Issaid, M Bennis",
-      "publication": "arXiv preprint arXiv:2106.00999, 2021",
+      "authors": "M Krouka, A Elgabli, C ben Issaid, M Bennis",
+      "publication": "2021 IEEE Global Communications Conference (GLOBECOM), 1-6, 2021",
       "year": "2021"
     },
     {
@@ -109,8 +109,8 @@
   ],
   "metrics": {
     "citations": {
-      "all": "218",
-      "since_2017": "198"
+      "all": "225",
+      "since_2017": "205"
     },
     "h_index": {
       "all": "6",
